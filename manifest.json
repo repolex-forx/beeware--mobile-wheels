@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "beeware",
+  "repo": "mobile-wheels",
+  "versions": [
+    {
+      "commit": "c4027f3f258fc0abdf372fc8bfe9b475f462a29d",
+      "parsed_at": "2026-11-07T12:14:55.872912+00:00",
+      "filetree": "filetree/c4027f3f258fc0abdf372fc8bfe9b475f462a29d.nq.gz",
+      "blobs": [
+        "blob/04d46493e2b75b6a8d48c5d985403fc69dcd3270.nq.gz",
+        "blob/758d09f32a990bb5b98efc5cb06ee3a5d13fd834.nq.gz",
+        "blob/a756d0c7720c1a07ea2bec6189523be0cc59c712.nq.gz",
+        "blob/e803ae04267afa58f25ccf07639fb096d8a9c0c7.nq.gz",
+        "blob/5ece16690c55723295c13e490f4072af68abf112.nq.gz",
+        "blob/b0c53c7c5c60ce8c9262ed8cc4de5c132461aba2.nq.gz",
+        "blob/96fbd9a307c44200b5d394084a9c041480842f28.nq.gz",
+        "blob/6821bb825bdea08fa29548567423a7f3badcd1ea.nq.gz",
+        "blob/b3ac5cd370f7e4305da6efaed619ec0c0980d70a.nq.gz",
+        "blob/1e87566098f7e81c8379e743759e7b16ccdb942d.nq.gz",
+        "blob/c4d88e8173e484996f9c1fe716bd0fb7e4c8a73b.nq.gz",
+        "blob/cb311ba160a3f717b12cd2025de87fb4683c41a0.nq.gz",
+        "blob/d19833248e78114677866410ead78b271740e191.nq.gz",
+        "blob/aa61fc3cedb800ef6dce2953cb78fc80561f51f9.nq.gz",
+        "blob/52a3dce9686f522b1f32f493977987b2ad1f7e0b.nq.gz",
+        "blob/18bc709b273549597ad6de97e6dd31f418b06c6a.nq.gz",
+        "blob/ea71977788719f0ee3df199ce1f99e6dab3bc3ac.nq.gz",
+        "blob/953c60a7fb05561e6dc25ad9885cb295e2663f62.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
